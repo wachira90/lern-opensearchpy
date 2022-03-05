@@ -45,3 +45,5 @@ volumes:
 
 networks:
   opensearch-net:
+  
+# https://opensearch.org/docs/latest/replication-plugin/get-started/  
